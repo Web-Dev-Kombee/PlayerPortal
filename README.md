@@ -102,8 +102,12 @@ The `Index.cshtml` view in `Views/Player/` supports:
    git clone https://github.com/Web-Dev-Kombee/PlayerPortal.git
    ```
 
-2. **Configure SQL Connection**
-   - Update `appsettings.json` with your database connection string.
+2. **Update `appsettings.Development.json`:**
+   ```json
+   "ConnectionStrings": {
+     "DefaultConnection": "Server=.;Database=PlayerDB;Trusted_Connection=True;"
+   }
+   ```
 
 3. **Apply EF Migrations**
    ```bash
@@ -138,6 +142,33 @@ The `Index.cshtml` view in `Views/Player/` supports:
 
 ---
 
-## 📬 License
+## 🤝 **Contributing**
 
-This project is licensed under the MIT License.
+We welcome contributions! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature/fix.
+3. Commit changes and open a **Pull Request**.
+
+---
+   
+## 🗝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+## 👨‍💻 **Author**
+
+**Kombee Technologies**
+
+- 🌐 [Portfolio](https://github.com/kombee-technologies)
+- 💼 [LinkedIn](https://in.linkedin.com/company/kombee-global)
+- 🌍 [Website](https://www.kombee.com/)
+
+---
+
+<p align="center">
+  Built with ❤️ using .NET 
+</p>
+
+---
