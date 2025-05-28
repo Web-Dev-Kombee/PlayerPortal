@@ -1,0 +1,45 @@
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.deps.json
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.pdb
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shard.Commons.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shard.Commons.pdb
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.AssemblyReference.cache
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfoInputs.cache
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfo.cs
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.CoreCompileInputs.cache
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.B.04643B71.Up2Date
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\refint\Shared.Broker.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.pdb
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shared.Broker\obj\Debug\net8.0\ref\Shared.Broker.dll
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.deps.json
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.dll
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shared.Broker.pdb
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\bin\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.AssemblyReference.cache
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfoInputs.cache
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfo.cs
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.CoreCompileInputs.cache
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.B.04643B71.Up2Date
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.dll
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\refint\Shared.Broker.dll
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\Shared.Broker.pdb
+E:\Nishi\zip-files\ExxonMobil\Shared.Broker\obj\Debug\net8.0\ref\Shared.Broker.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\bin\Debug\net8.0\Shared.Broker.deps.json
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\bin\Debug\net8.0\Shared.Broker.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\bin\Debug\net8.0\Shared.Broker.pdb
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\bin\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\bin\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.AssemblyReference.cache
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfoInputs.cache
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.AssemblyInfo.cs
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.csproj.CoreCompileInputs.cache
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.B.04643B71.Up2Date
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\refint\Shared.Broker.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\Shared.Broker.pdb
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shared.Broker\obj\Debug\net8.0\ref\Shared.Broker.dll

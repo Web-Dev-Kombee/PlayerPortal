@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\sqldb\\sqlplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\sqldb\\sqlplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\brokerrequests\\playerlistbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\brokerrequests\\playerlistbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\services\\iplayerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\services\\iplayerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\sqldb\\sqldbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\sqldb\\sqldbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\infrastructure\\emdbodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\infrastructure\\emdbodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\extensions\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\extensions\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\datatransfermodels\\playerdatatransfermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\datatransfermodels\\playerdatatransfermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\brokerrequests\\playerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\brokerrequests\\playerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\brokerrequests\\getplayerbyidbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\brokerrequests\\getplayerbyidbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal.data\\brokerrequests\\deleteplayerbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB714F17-C26D-A30C-C8C6-F221558BCA6B}|PlayerPortal.Data\\PlayerPortal.Data.csproj|solutionrelative:playerportal.data\\brokerrequests\\deleteplayerbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\views\\player\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\views\\player\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\views\\player\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\views\\player\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\helpers\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\helpers\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\shared.broker\\ibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|solutionrelative:shared.broker\\ibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\shared.broker\\ibrokered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|solutionrelative:shared.broker\\ibrokered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\shared.broker\\handlerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF4F819-5AA5-91DB-ED3D-2436C0461776}|Shared.Broker\\Shared.Broker.csproj|solutionrelative:shared.broker\\handlerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|e:\\nishi\\test\\github\\withoutbroker\\playerportal\\playerportal\\playerportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{940CFFEF-42EF-DD39-C6DB-3546C6F756C7}|PlayerPortal\\PlayerPortal.csproj|solutionrelative:playerportal\\playerportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlDbRepository.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\SqlDb\\SqlDbRepository.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\SqlDb\\SqlDbRepository.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\SqlDb\\SqlDbRepository.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\SqlDb\\SqlDbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EMDboDBContext.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\Infrastructure\\EMDboDBContext.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\Infrastructure\\EMDboDBContext.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\Infrastructure\\EMDboDBContext.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\Infrastructure\\EMDboDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:32.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerDataTransferModel.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\DataTransferModels\\PlayerDataTransferModel.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\DataTransferModels\\PlayerDataTransferModel.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\DataTransferModels\\PlayerDataTransferModel.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\DataTransferModels\\PlayerDataTransferModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PlayerPortal\\Views\\Player\\Edit.cshtml",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Edit.cshtml",
+              "RelativeToolTip": "PlayerPortal\\Views\\Player\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T08:46:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Details.cshtml",
+              "RelativeDocumentMoniker": "PlayerPortal\\Views\\Player\\Details.cshtml",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Details.cshtml",
+              "RelativeToolTip": "PlayerPortal\\Views\\Player\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T08:46:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PlayerPortal\\Views\\Player\\Delete.cshtml",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Delete.cshtml",
+              "RelativeToolTip": "PlayerPortal\\Views\\Player\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T08:46:36.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Create.cshtml",
+              "RelativeDocumentMoniker": "PlayerPortal\\Views\\Player\\Create.cshtml",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Views\\Player\\Create.cshtml",
+              "RelativeToolTip": "PlayerPortal\\Views\\Player\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T08:46:31.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "PlayerPortal\\Services\\PlayerService.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Services\\PlayerService.cs",
+              "RelativeToolTip": "PlayerPortal\\Services\\PlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:46:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlayerServices.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Services\\IPlayerServices.cs",
+              "RelativeDocumentMoniker": "PlayerPortal\\Services\\IPlayerServices.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Services\\IPlayerServices.cs",
+              "RelativeToolTip": "PlayerPortal\\Services\\IPlayerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:46:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlPlayerRepository.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\SqlDb\\SqlPlayerRepository.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\SqlDb\\SqlPlayerRepository.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\SqlDb\\SqlPlayerRepository.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\SqlDb\\SqlPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:44:51.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextExtensions.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\Extensions\\DbContextExtensions.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\Extensions\\DbContextExtensions.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\Extensions\\DbContextExtensions.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\Extensions\\DbContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:44:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerRequest.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\PlayerRequest.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\BrokerRequests\\PlayerRequest.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\PlayerRequest.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\BrokerRequests\\PlayerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:44:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetPlayerByIdBroker.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\GetPlayerByIdBroker.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\BrokerRequests\\GetPlayerByIdBroker.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\GetPlayerByIdBroker.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\BrokerRequests\\GetPlayerByIdBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:44:19.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeletePlayerBroker.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\DeletePlayerBroker.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\BrokerRequests\\DeletePlayerBroker.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\DeletePlayerBroker.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\BrokerRequests\\DeletePlayerBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:43:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Program.cs",
+              "RelativeDocumentMoniker": "PlayerPortal\\Program.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Program.cs",
+              "RelativeToolTip": "PlayerPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:41:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerListBroker.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\PlayerListBroker.cs",
+              "RelativeDocumentMoniker": "PlayerPortal.Data\\BrokerRequests\\PlayerListBroker.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal.Data\\BrokerRequests\\PlayerListBroker.cs",
+              "RelativeToolTip": "PlayerPortal.Data\\BrokerRequests\\PlayerListBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:40:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBroker.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\IBroker.cs",
+              "RelativeDocumentMoniker": "Shared.Broker\\IBroker.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\IBroker.cs",
+              "RelativeToolTip": "Shared.Broker\\IBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:37:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBrokered.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\IBrokered.cs",
+              "RelativeDocumentMoniker": "Shared.Broker\\IBrokered.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\IBrokered.cs",
+              "RelativeToolTip": "Shared.Broker\\IBrokered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:37:48.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HandlerResolver.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\HandlerResolver.cs",
+              "RelativeDocumentMoniker": "Shared.Broker\\HandlerResolver.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\Shared.Broker\\HandlerResolver.cs",
+              "RelativeToolTip": "Shared.Broker\\HandlerResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:37:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PlayerPortal\\Controllers\\PlayerController.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "PlayerPortal\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:37:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerPortal",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\PlayerPortal.csproj",
+              "RelativeDocumentMoniker": "PlayerPortal\\PlayerPortal.csproj",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\PlayerPortal.csproj",
+              "RelativeToolTip": "PlayerPortal\\PlayerPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T07:36:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Helpers\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "PlayerPortal\\Helpers\\ErrorHandler.cs",
+              "ToolTip": "E:\\Nishi\\Test\\Github\\WithoutBroker\\PlayerPortal\\PlayerPortal\\Helpers\\ErrorHandler.cs",
+              "RelativeToolTip": "PlayerPortal\\Helpers\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:36:27.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

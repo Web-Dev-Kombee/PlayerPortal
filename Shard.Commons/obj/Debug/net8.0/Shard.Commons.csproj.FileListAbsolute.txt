@@ -1,0 +1,33 @@
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.deps.json
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.pdb
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfoInputs.cache
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfo.cs
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.csproj.CoreCompileInputs.cache
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\refint\Shard.Commons.dll
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.pdb
+D:\Eastern TS\ExxonMobil\Code New\ExxonMobil\Shard.Commons\obj\Debug\net8.0\ref\Shard.Commons.dll
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.deps.json
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\bin\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfoInputs.cache
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfo.cs
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.csproj.CoreCompileInputs.cache
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\refint\Shard.Commons.dll
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\zip-files\ExxonMobil\Shard.Commons\obj\Debug\net8.0\ref\Shard.Commons.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\bin\Debug\net8.0\Shard.Commons.deps.json
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\bin\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\bin\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfoInputs.cache
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.AssemblyInfo.cs
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.csproj.CoreCompileInputs.cache
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\refint\Shard.Commons.dll
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\Shard.Commons.pdb
+E:\Nishi\Test\Github\WithoutBroker\PlayerPortal\Shard.Commons\obj\Debug\net8.0\ref\Shard.Commons.dll

@@ -1,0 +1,56 @@
+﻿@model PlayerPortal.Data.BrokerRequests.PlayerRequest
+
+@{
+    ViewData["Title"] = "Create Player";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm rounded-4">
+                <div class="card-header bg-success text-white rounded-top-4">
+                    <h4 class="mb-0"><i class="fas fa-plus-circle me-2"></i>Create Player</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" class="needs-validation" novalidate>
+                        <div class="mb-3">
+                            <label asp-for="ShirtNo" class="form-label fw-semibold"></label>
+                            <input asp-for="ShirtNo" class="form-control" />
+                            <span asp-validation-for="ShirtNo" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label fw-semibold"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Appearance" class="form-label fw-semibold"></label>
+                            <input asp-for="Appearance" class="form-control" />
+                            <span asp-validation-for="Appearance" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Goals" class="form-label fw-semibold"></label>
+                            <input asp-for="Goals" class="form-control" />
+                            <span asp-validation-for="Goals" class="text-danger small"></span>
+                        </div>
+                        <div class="d-flex flex-column flex-md-row justify-content-between align-items-stretch gap-2 mt-4">
+                            <button type="submit" class="btn btn-success btn-lg rounded-3 d-flex align-items-center justify-content-center w-100 shadow-sm">
+                                <i class="fas fa-save me-1"></i> Create Player
+                            </button>
+                            <a asp-action="Index" class="btn btn-outline-success btn-lg rounded-3 d-flex align-items-center justify-content-center w-100 shadow-sm">
+                                <i class="bi bi-arrow-left me-2 fs-5"></i> Back to List
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
