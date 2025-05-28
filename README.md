@@ -127,14 +127,22 @@ The `Index.cshtml` view in `Views/Player/` supports:
 - Add Player Form
 ![image](https://github.com/user-attachments/assets/2cbdce5b-37fd-44ff-8a55-a3c7ae13cba7)
 
+---
+
 - Player List with Pagination + Search
 ![image](https://github.com/user-attachments/assets/d5508de8-af4c-4c25-b3b1-ba8fe8c08047)
+
+---
 
 - Player Details
 ![image](https://github.com/user-attachments/assets/4b4c1fe1-eff0-4ada-b3cb-b2622418dd99)
 
+---
+
 - Edit Player
 ![image](https://github.com/user-attachments/assets/dbe90540-d29c-46b3-9fea-3595b8abdfe2)
+
+---
 
 - Delete Confirmation
 ![image](https://github.com/user-attachments/assets/e3d87f7f-cf26-4173-a22a-11ae77528d3a)
