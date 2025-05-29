@@ -176,7 +176,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with ❤️ using .NET CQRS
+  Built with ❤️ using .NET 
 </p>
 
 ---
