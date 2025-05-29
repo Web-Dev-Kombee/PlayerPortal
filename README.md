@@ -11,7 +11,7 @@
 PlayerPrortal.sln
 │
 ├───PlayerPortal/                        
-│   ├───Controllers/                     # MVC Controller (PlayerController.cs)
+│   ├───Controllers/                     # Controller (PlayerController.cs)
 │   ├───Helpers/                         # Global error handling (ErrorHandler.cs)
 │   ├───Services/                        # IPlayerServices, PlayerService
 │   ├───Views/                           # Razor views for Player UI
