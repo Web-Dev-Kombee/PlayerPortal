@@ -86,7 +86,7 @@ The `Index.cshtml` view in `Views/Player/` supports:
 
 ## 🛠️ Technologies Used
 
-- ASP.NET Core 8.0 (MVC)
+- ASP.NET Core 8.0 
 - Entity Framework Core (Code First)
 - Vanilla CQRS (no MediatR)
 - Razor Views
